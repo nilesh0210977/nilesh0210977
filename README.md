@@ -9,9 +9,14 @@ databases, operating systems, and networking, with a particular focus on **mobil
 I am passionate about building innovative and user-friendly mobile applications using the **Model-View-ViewModel (MVVM) architecture**. I have also completed several online certifications from Meta, enhancing my expertise in **Kotlin, Android Development, and UX/UI Design**.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Kotlin, JSON
-- **Mobile Development**: Android (MVVM Architecture)
+- **Languages**: Kotlin, JSON, Dart, JavaScript, HTML, C, C++
+- **Mobile Development**: Android (MVVM Architecture), Multiplateform using KMM and Flutter
 - **Version Control**: Git
+- **Backend**: Next.js, Node.js, Express.js
+- **Frontend**: React, TailwindCSS, HTML, CSS, Bootstrap
+- **Clouds & Database**s: AWS, PostgreSQL, MongoDB, Firebase
+- **Web Technologies**: Docker, Socket.IO, Redis
+- **Developer Tools**: Postman, VS Code, GitHub, Xcode, Android Studio, Flutter
 - **Other Skills**: UX/UI Design
 
 ## 📚 Certifications
