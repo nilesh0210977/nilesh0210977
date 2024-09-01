@@ -8,7 +8,8 @@ I am currently pursuing a Bachelor of Technology degree in Computer Science and 
 
 I am passionate about building innovative and user-friendly mobile applications using the **Model-View-ViewModel (MVVM) architecture** and **Web Sites**. I have also completed several online certifications from Meta, enhancing my expertise in **Kotlin, Android Development, and UX/UI Design**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnilesh&layout=compact&theme=radical)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-Language-FF6347?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ## 🔧 Technologies & Tools
 
