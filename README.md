@@ -8,8 +8,7 @@ I am currently pursuing a Bachelor of Technology degree in Computer Science and 
 
 I am passionate about building innovative and user-friendly mobile applications using the **Model-View-ViewModel (MVVM) architecture** and **Web Sites**. I have also completed several online certifications from Meta, enhancing my expertise in **Kotlin, Android Development, and UX/UI Design**.
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-Language-FF6347?style=for-the-badge&logo=kotlin&logoColor=white)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0210977&layout=compact&theme=radical)
 
 ## 🔧 Technologies & Tools
 
@@ -39,14 +38,13 @@ I am passionate about building innovative and user-friendly mobile applications 
 
 ## 📊 GitHub Stats
 
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnilesh&show_icons=true&theme=radical)
-![Nilesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnilesh&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nilesh0210977?cardType=github&theme=vision-friendly-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![Nilesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilesh0210977&theme=radical)
 
 ## 🚀 What I’m working on
 
 I am constantly exploring new technologies and working on projects that push my boundaries as a mobile developer. Stay tuned for more updates!
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mrnilesh&theme=rogue)
 
 ## 📫 How to reach me
 
@@ -56,4 +54,4 @@ I am constantly exploring new technologies and working on projects that push my 
 
 ---
 
-⭐️ From [Nilesh Sharma](https://github.com/mrnilesh)
+⭐️ From [Nilesh Sharma](https://github.com/nilesh0210977)
