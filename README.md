@@ -29,8 +29,9 @@ I am passionate about building innovative and user-friendly mobile applications 
   *Indian Institute of Information Technology Design & Manufacturing, Kurnool*
 
 ## 📫 How to reach me
-- **Email**: [122cs0020@iiitk.ac.in](mailto:122cs0020@iiitk.ac.in)
+- **Email**: [nileshsharma.0210977@gmail.com](mailto:nileshsharma.0210977@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mrnilesh](https://www.linkedin.com/in/mrnilesh)
+- Medium:[https://medium.com/@nileshsharma.0210977](https://medium.com/@nileshsharma.0210977)
 
 ## 🚀 What I’m working on
 I am constantly exploring new technologies and working on projects that push my boundaries as a mobile developer. Stay tuned for more updates!
