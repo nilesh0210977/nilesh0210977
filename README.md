@@ -4,9 +4,9 @@
 
 I am currently pursuing a Bachelor of Technology degree in Computer Science and Engineering at the **Indian Institute of Information Technology Design & Manufacturing, Kurnool**.
 My journey in the tech world has exposed me to various fields such as algorithms, data structures,
-databases, operating systems, and networking, with a particular focus on **mobile application development**.
+databases, operating systems, and networking, with a particular focus on **mobile application development and Web development**.
 
-I am passionate about building innovative and user-friendly mobile applications using the **Model-View-ViewModel (MVVM) architecture**. I have also completed several online certifications from Meta, enhancing my expertise in **Kotlin, Android Development, and UX/UI Design**.
+I am passionate about building innovative and user-friendly mobile applications using the **Model-View-ViewModel (MVVM) architecture** and **Web Sites**. I have also completed several online certifications from Meta, enhancing my expertise in **Kotlin, Android Development, and UX/UI Design**.
 
 ## 🔧 Technologies & Tools
 - **Languages**: Kotlin, JSON, Dart, JavaScript, HTML, C, C++
