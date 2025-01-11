@@ -27,7 +27,7 @@ I am passionate about building innovative and user-friendly mobile applications 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Android-greem?style=flat&logo=android)
+![Static Badge](https://img.shields.io/badge/ANDROID-greem?style=flat&logo=android)
 
 
 ## 📚 Certifications
