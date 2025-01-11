@@ -1,6 +1,6 @@
 # Hi there, I'm Nilesh Sharma 👋
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/mrnilesh/)
-[![Gmail Badge](![Static Badge](https://img.shields.io/badge/nileshsharma.0210977%40gmail.com-blue?style=flat&logo=LinkedIn)](mailto:nileshsharma.0210977@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/nileshsharma.0210977%40gmail.com-orange?style=flat&logo=LinkedIn)](mailto:nileshsharma.0210977@gmail.com)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nilesh0210977&color=blue)
